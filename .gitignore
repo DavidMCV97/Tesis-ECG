@@ -15,7 +15,7 @@ Codigos/imagen_ecg.py
 **.ipynb_checkpoints/
 imagenes/
 original_databases/
-venv/
+.venv/
 versiones/
 Codigos/Datos_Leonel/
 Codigos/pruebas/
@@ -25,3 +25,4 @@ teoria random forest.pdf
 paper - datos.pdf
 procesamiento de señales.docx
 Codigos/Pruebas.ipynb
+databases/
